@@ -18,49 +18,69 @@ A curated list of Human Action Recognition (HAR) projects, papers, and codes, or
 
 ## 1. Transformer-based Methods
 
+- [pairDETR (CVPR 2024)](https://github.com/mts-ai/pairdetr)
+- [DualDETR (CVPR 2024)](https://github.com/MCG-NJU/DualDETR)
+- [LART (CVPR2023)](https://people.eecs.berkeley.edu/~jathushan/LART/)
+- [STEP-CATFormer(BMVC2023](https://github.com/maclong01/STEP-CATFormer)
+- [STAR(WACV2023)](https://openaccess.thecvf.com/content/WACV2023/html/Ahn_STAR-Transformer_A_Spatio-Temporal_Cross_Attention_Transformer_for_Human_Action_Recognition_WACV_2023_paper.html)
 - [ActionFormer (ECCV 2022)](https://github.com/happyharrycn/actionformer_release)  
-  用于时序动作定位的Transformer方法，提出了一个基于token pyramid的结构。
-
 - [TimesFormer (NeurIPS 2021)](https://github.com/facebookresearch/TimeSformer)  
-  早期将ViT扩展到视频动作识别任务的工作。
-
+  [3Mformer(CVPR2023)](https://openaccess.thecvf.com//content/CVPR2023/html/Wang_3Mformer_Multi-Order_Multi-Mode_Transformer_for_Skeletal_Action_Recognition_CVPR_2023_paper.html)
+- [MS-TCT (CVPR2022)](https://github.com/dairui01/MS-TCT)
+- [OadTR (ICCV2021)](https://github.com/wangxiang1230/OadTR)
+- [STAR](https://github.com/cunjunyu/STAR)
+- [GraphTransformer](https://github.com/graphdeeplearning/graphtransformer)
+- [SKateFormer](https://kaist-viclab.github.io/SkateFormer_site/)
+- [GraFormer](https://github.com/Graformer/GraFormer)
 ---
 
 ## 2. 3D CNN-based Methods
 
-- [I3D (CVPR 2017)](https://github.com/deepmind/kinetics-i3d)  
-  使用3D卷积处理时空特征，经典工作，基于Inception结构。
+- [PoseConv3D (CVPR 2022)](https://github.com/kennymckormick/pyskl)  
 
-- [SlowFast (ICCV 2019)](https://github.com/facebookresearch/SlowFast)  
-  提出slow/fast两个路径捕捉不同时间分辨率信息。
 
 ---
 
 ## 3. Skeleton-based Methods
-
+- [blockGCN (CVPR 2024)](https://github.com/ZhouYuxuanYX/BlockGCN)
+- [HD-GCN (ICCV 2023)](https://github.com/Jho-Yonsei/HD-GCN)
+- [POOPMAN(CVPR 2023)](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Neural_Koopman_Pooling_Control-Inspired_Temporal_Dynamics_Encoding_for_Skeleton-Based_Action_CVPR_2023_paper.html)
 - [ST-GCN (AAAI 2018)](https://github.com/yysijie/st-gcn)  
-  图卷积方法，使用骨骼关键点建图识别动作。
-
+- [infokGCN (CVPR 2022)](https://github.com/stnoah1/infogcn)
+- [AdsSGN(ICCV 2021)](https://github.com/lshiwjx/AdaSGN)
 - [CTR-GCN (CVPR 2021)](https://github.com/UshioX/CTR-GCN)  
-  一种更灵活的图构建方法用于Skeleton数据。
-
----
+- [Shift-GCN (CVPR 2020)](https://github.com/kchengiva/Shift-GCN)  
+- [DeGCN (2021)](https://ieeexplore.ieee.org/abstract/document/10478824?casa_token=fuWV-WNVjq8AAAAA:TcXyXzawfn5djFzmmEQrkzvGJcAVvHOSGJxoItpfDBhu-Z5EHos7-5AI0eT_OWjR2Cf605hyiw0)
+- [SGN (CVPR2020)](https://github.com/microsoft/SGN)
+- [DC-GCN(ECCV2020)](https://github.com/kchengiva/DecoupleGCN-DropGraph)
+- [Extended Multi-stream Temporal-attention Module for Skeletonbased Human Action Recognition (HAR)](https://www.sciencedirect.com/science/article/abs/pii/S0747563224003509)
+- [Are Spatial-Temporal Graph Convolution Networks for Human Action Recognition Over-Parameterized?](http://arxiv.org/abs/2505.10679v1)
 
 ## 4. Self-supervised Learning
 
-- [ActCLR (CVPR 2023)](https://github.com/GuangmingZhu/ActCLR)  
-  动作剪辑层次对比学习，利用时序结构进行自监督训练。
+- [ActCLR (CVPR 2023)](https://github.com/GuangmingZhu/ActCLR)
+- [STG-NF (ICCV2023)](https://github.com/orhir/STG-NF)
+- [AimCLR (AAAI 2022)]([https://github.com/Levigty/AimCLR)  
+---
 
-- [CoCLR (CVPR 2021)](https://github.com/tencent-ailab/CoCLR)  
-  基于时序一致性的视频对比学习方法。
+## 5. others
+
+-[STMT (CVPR 2023)](https://github.com/zgzxy001/STMT)
+-[MULE (CVPR 2023)](https://github.com/charliezhaoyinpeng/mule)  
+-[LPR Memory (ICCV 2021)](https://openaccess.thecvf.com/content/ICCV2021/html/Kim_Robust_Small-Scale_Pedestrian_Detection_With_Cued_Recall_via_Memory_Learning_ICCV_2021_paper.html)
+-[KShapeNet (ICCV 2021)](https://openaccess.thecvf.com/content/ICCV2021/html/Friji_Geometric_Deep_Neural_Network_Using_Rigid_and_Non-Rigid_Transformations_for_ICCV_2021_paper.html)
+-[Graph-mamba](https://github.com/bowang-lab/Graph-Mamba)
+-[MambaVision(CVPR2025)](https://github.com/NVlabs/MambaVision)
+-[MobileMamba(CVPR25)](https://github.com/lewandofskee/MobileMamba)
+-[SAMBA(ICLR2025)](https://github.com/microsoft/Samba)
 
 ---
 
-## 5. Datasets & Benchmarks
+## 6. Datasets & Benchmarks
 
-- [Kinetics](https://deepmind.com/research/open-source/kinetics) - 大规模动作识别数据集。
-- [NTU RGB+D](https://rose1.ntu.edu.sg/dataset/actionRecognition/) - 骨骼动作识别经典数据集。
-- [UCF101](https://www.crcv.ucf.edu/data/UCF101.php) - 早期的视频动作数据集。
+- [Kinetics](https://deepmind.com/research/open-source/kinetics) 
+- [NTU RGB+D](https://rose1.ntu.edu.sg/dataset/actionRecognition/) 
+- [UCF101](https://www.crcv.ucf.edu/data/UCF101.php) 
 
 ---
 
