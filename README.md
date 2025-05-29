@@ -25,7 +25,7 @@ A curated list of Human Action Recognition (HAR) projects, papers, and codes, or
 - [STAR(WACV2023)](https://openaccess.thecvf.com/content/WACV2023/html/Ahn_STAR-Transformer_A_Spatio-Temporal_Cross_Attention_Transformer_for_Human_Action_Recognition_WACV_2023_paper.html)
 - [ActionFormer (ECCV 2022)](https://github.com/happyharrycn/actionformer_release)  
 - [TimesFormer (NeurIPS 2021)](https://github.com/facebookresearch/TimeSformer)  
-  [3Mformer(CVPR2023)](https://openaccess.thecvf.com//content/CVPR2023/html/Wang_3Mformer_Multi-Order_Multi-Mode_Transformer_for_Skeletal_Action_Recognition_CVPR_2023_paper.html)
+- [3Mformer(CVPR2023)](https://openaccess.thecvf.com//content/CVPR2023/html/Wang_3Mformer_Multi-Order_Multi-Mode_Transformer_for_Skeletal_Action_Recognition_CVPR_2023_paper.html)
 - [MS-TCT (CVPR2022)](https://github.com/dairui01/MS-TCT)
 - [OadTR (ICCV2021)](https://github.com/wangxiang1230/OadTR)
 - [STAR](https://github.com/cunjunyu/STAR)
@@ -55,12 +55,14 @@ A curated list of Human Action Recognition (HAR) projects, papers, and codes, or
 - [DC-GCN(ECCV2020)](https://github.com/kchengiva/DecoupleGCN-DropGraph)
 - [Extended Multi-stream Temporal-attention Module for Skeletonbased Human Action Recognition (HAR)](https://www.sciencedirect.com/science/article/abs/pii/S0747563224003509)
 - [Are Spatial-Temporal Graph Convolution Networks for Human Action Recognition Over-Parameterized?](http://arxiv.org/abs/2505.10679v1)
+---
 
 ## 4. Self-supervised Learning
 
 - [ActCLR (CVPR 2023)](https://github.com/GuangmingZhu/ActCLR)
 - [STG-NF (ICCV2023)](https://github.com/orhir/STG-NF)
-- [AimCLR (AAAI 2022)]([https://github.com/Levigty/AimCLR)  
+- [AimCLR (AAAI 2022)]([https://github.com/Levigty/AimCLR)
+- 
 ---
 
 ## 5. others
