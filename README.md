@@ -54,15 +54,19 @@ A curated list of Human Action Recognition (HAR) projects, papers, and codes, or
 - [SGN (CVPR2020)](https://github.com/microsoft/SGN)
 - [DC-GCN(ECCV2020)](https://github.com/kchengiva/DecoupleGCN-DropGraph)
 - [Extended Multi-stream Temporal-attention Module for Skeletonbased Human Action Recognition (HAR)](https://www.sciencedirect.com/science/article/abs/pii/S0747563224003509)
-- [Are Spatial-Temporal Graph Convolution Networks for Human Action Recognition Over-Parameterized?](http://arxiv.org/abs/2505.10679v1)
----
+- [Are Spatial-Temporal Graph Convolution Networks for Human Action Recognition Over-Parameterized?(2025.5.15)](https://github.com/davelailai/Sparse-ST-GCN)
+- [A Generically Contrastive Spatiotemporal RepresentationEnhancement for 3D Skeleton Action Recognition (2025.3.17)](https://github.com/zhshj0110/CSRE)
+- [High-Performance Inference Graph Convolutional Networks for Skeleton-Based Action Recognition(2025.1.7)](https://github.com/lizaowo/HPI-GCN)
+- [Revealing Key Details to See Differences: A Novel Prototypical Perspective for Skeleton-based Action Recognition(2025.3.20)](https://github.com/firework8/ProtoGCN)
+- [SkeletonX: Data-Efficient Skeleton-based Action Recognition via Cross-sample Feature Aggregation(2025.4.16)](https://github.com/zzysteve/SkeletonX)
+--
 
 ## 4. Self-supervised Learning
 
 - [ActCLR (CVPR 2023)](https://github.com/GuangmingZhu/ActCLR)
 - [STG-NF (ICCV2023)](https://github.com/orhir/STG-NF)
 - [AimCLR (AAAI 2022)]([https://github.com/Levigty/AimCLR)
-- 
+ 
 ---
 
 ## 5. others
@@ -86,8 +90,6 @@ A curated list of Human Action Recognition (HAR) projects, papers, and codes, or
 
 ---
 
-## ✅ How to Contribute
 
-欢迎提交 PR 添加更多项目！也可以开 Issue 推荐你喜欢的项目。
 
 
