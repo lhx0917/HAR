@@ -20,14 +20,14 @@ A curated list of Human Action Recognition (HAR) projects, papers, and codes, or
 
 - [pairDETR (CVPR 2024)](https://github.com/mts-ai/pairdetr)
 - [DualDETR (CVPR 2024)](https://github.com/MCG-NJU/DualDETR)
-- [LART (CVPR2023)](https://people.eecs.berkeley.edu/~jathushan/LART/)
-- [STEP-CATFormer(BMVC2023](https://github.com/maclong01/STEP-CATFormer)
-- [STAR(WACV2023)](https://openaccess.thecvf.com/content/WACV2023/html/Ahn_STAR-Transformer_A_Spatio-Temporal_Cross_Attention_Transformer_for_Human_Action_Recognition_WACV_2023_paper.html)
+- [LART (CVPR 2023)](https://people.eecs.berkeley.edu/~jathushan/LART/)
+- [STEP-CATFormer(BMVC 2023](https://github.com/maclong01/STEP-CATFormer)
+- [STAR(WACV 2023)](https://openaccess.thecvf.com/content/WACV2023/html/Ahn_STAR-Transformer_A_Spatio-Temporal_Cross_Attention_Transformer_for_Human_Action_Recognition_WACV_2023_paper.html)
 - [ActionFormer (ECCV 2022)](https://github.com/happyharrycn/actionformer_release)  
 - [TimesFormer (NeurIPS 2021)](https://github.com/facebookresearch/TimeSformer)  
-- [3Mformer(CVPR2023)](https://openaccess.thecvf.com//content/CVPR2023/html/Wang_3Mformer_Multi-Order_Multi-Mode_Transformer_for_Skeletal_Action_Recognition_CVPR_2023_paper.html)
-- [MS-TCT (CVPR2022)](https://github.com/dairui01/MS-TCT)
-- [OadTR (ICCV2021)](https://github.com/wangxiang1230/OadTR)
+- [3Mformer(CVPR 2023)](https://openaccess.thecvf.com//content/CVPR2023/html/Wang_3Mformer_Multi-Order_Multi-Mode_Transformer_for_Skeletal_Action_Recognition_CVPR_2023_paper.html)
+- [MS-TCT (CVPR 2022)](https://github.com/dairui01/MS-TCT)
+- [OadTR (ICCV 2021)](https://github.com/wangxiang1230/OadTR)
 - [STAR](https://github.com/cunjunyu/STAR)
 - [GraphTransformer](https://github.com/graphdeeplearning/graphtransformer)
 - [SKateFormer](https://kaist-viclab.github.io/SkateFormer_site/)
@@ -51,8 +51,8 @@ A curated list of Human Action Recognition (HAR) projects, papers, and codes, or
 - [CTR-GCN (CVPR 2021)](https://github.com/UshioX/CTR-GCN)  
 - [Shift-GCN (CVPR 2020)](https://github.com/kchengiva/Shift-GCN)  
 - [DeGCN (2021)](https://ieeexplore.ieee.org/abstract/document/10478824?casa_token=fuWV-WNVjq8AAAAA:TcXyXzawfn5djFzmmEQrkzvGJcAVvHOSGJxoItpfDBhu-Z5EHos7-5AI0eT_OWjR2Cf605hyiw0)
-- [SGN (CVPR2020)](https://github.com/microsoft/SGN)
-- [DC-GCN(ECCV2020)](https://github.com/kchengiva/DecoupleGCN-DropGraph)
+- [SGN (CVPR 2020)](https://github.com/microsoft/SGN)
+- [DC-GCN(ECCV 2020)](https://github.com/kchengiva/DecoupleGCN-DropGraph)
 - [Extended Multi-stream Temporal-attention Module for Skeletonbased Human Action Recognition (HAR)](https://www.sciencedirect.com/science/article/abs/pii/S0747563224003509)
 - [Are Spatial-Temporal Graph Convolution Networks for Human Action Recognition Over-Parameterized?(2025.5.15)](https://github.com/davelailai/Sparse-ST-GCN)
 - [A Generically Contrastive Spatiotemporal RepresentationEnhancement for 3D Skeleton Action Recognition (2025.3.17)](https://github.com/zhshj0110/CSRE)
@@ -64,8 +64,8 @@ A curated list of Human Action Recognition (HAR) projects, papers, and codes, or
 ## 4. Self-supervised Learning
 
 - [ActCLR (CVPR 2023)](https://github.com/GuangmingZhu/ActCLR)
-- [STG-NF (ICCV2023)](https://github.com/orhir/STG-NF)
-- [AimCLR (AAAI 2022)]([https://github.com/Levigty/AimCLR)
+- [STG-NF (ICCV 2023)](https://github.com/orhir/STG-NF)
+- [AimCLR (AAAI 2022)](https://github.com/Levigty/AimCLR)
  
 ---
 
@@ -76,9 +76,9 @@ A curated list of Human Action Recognition (HAR) projects, papers, and codes, or
 -[LPR Memory (ICCV 2021)](https://openaccess.thecvf.com/content/ICCV2021/html/Kim_Robust_Small-Scale_Pedestrian_Detection_With_Cued_Recall_via_Memory_Learning_ICCV_2021_paper.html)
 -[KShapeNet (ICCV 2021)](https://openaccess.thecvf.com/content/ICCV2021/html/Friji_Geometric_Deep_Neural_Network_Using_Rigid_and_Non-Rigid_Transformations_for_ICCV_2021_paper.html)
 -[Graph-mamba](https://github.com/bowang-lab/Graph-Mamba)
--[MambaVision(CVPR2025)](https://github.com/NVlabs/MambaVision)
--[MobileMamba(CVPR25)](https://github.com/lewandofskee/MobileMamba)
--[SAMBA(ICLR2025)](https://github.com/microsoft/Samba)
+-[MambaVision(CVPR 2025)](https://github.com/NVlabs/MambaVision)
+-[MobileMamba(CVPR 2025)](https://github.com/lewandofskee/MobileMamba)
+-[SAMBA(ICLR 2025)](https://github.com/microsoft/Samba)
 
 ---
 
