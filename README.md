@@ -32,6 +32,9 @@ A curated list of Human Action Recognition (HAR) projects, papers, and codes, or
 - [GraphTransformer](https://github.com/graphdeeplearning/graphtransformer)
 - [SKateFormer](https://kaist-viclab.github.io/SkateFormer_site/)
 - [GraFormer](https://github.com/Graformer/GraFormer)
+- [STST](https://github.com/HanzoZY/STST/tree/master)
+- [ST-TR](https://github.com/Chiaraplizz/ST-TR)
+  
 ---
 
 ## 2. 3D CNN-based Methods
